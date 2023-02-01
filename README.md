@@ -287,7 +287,7 @@ Item # | Description | Completed
 2a | 2nd Favorite emoji | 🥹
 2b | Link to `commit #2 from Github Desktop` | [commit #2 from Github Desktop](https://github.com/omundy/learn-git-milestones/commit/9d36abe572acdd79a571855f762829bae000acce)
 2c | Full path to your working directory | /Users/ainasolis/Documents/GitHub/DIG250-Git-Milestones
-2d | Link to `commit #3 from CLI` |
+2d | Link to `commit #3 from CLI` | [commit #3 from CLI](https://github.com/ania0162/DIG250-Git-Milestones/commit/64afb13e02b9d4b420e6c1accf41a166c430e982)
 2e | 3rd Favorite emoji |
 2f | Link to `commit #4 from Atom` |
 3a | Link to `my-awesome-project` github.com repo page |
