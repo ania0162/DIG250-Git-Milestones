@@ -284,7 +284,7 @@ Item # | Description | Completed
 1b | Link to `commit #1 from Github.com` |[commit #1 from Github.com](https://github.com/ania0162/DIG250-Git-Milestones/commit/87a2ae95451c9c250998aeec6adb1ca962609e2c)
 1c | Link to markdown tables docs | [tips for tables](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 1d | What does `log` do? | Show commit logs
-2a | 2nd Favorite emoji |
+2a | 2nd Favorite emoji | 🥹
 2b | Link to `commit #2 from Github Desktop` |
 2c | Full path to your working directory |
 2d | Link to `commit #3 from CLI` |
