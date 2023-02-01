@@ -289,7 +289,7 @@ Item # | Description | Completed
 2c | Full path to your working directory | /Users/ainasolis/Documents/GitHub/DIG250-Git-Milestones
 2d | Link to `commit #3 from CLI` | [commit #3 from CLI](https://github.com/ania0162/DIG250-Git-Milestones/commit/64afb13e02b9d4b420e6c1accf41a166c430e982)
 2e | 3rd Favorite emoji | 👀
-2f | Link to `commit #4 from Atom` |
+2f | Link to `commit #4 from Atom` | [commit #4 from Atom](https://github.com/ania0162/DIG250-Git-Milestones/commit/ebfa6e1aa80b4c5294357215b35abaf3b91549c1)
 3a | Link to `my-awesome-project` github.com repo page |
 4a | Link to `my-awesome-project` github.io "project site" |
 
