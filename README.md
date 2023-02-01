@@ -204,7 +204,7 @@ You should be able to ...
 
 1. Create a repository from scratch
   1. ✏️ In Github Desktop, create a new repository with the name: `my-awesome-project`
-  1. Make sure the repository is public *not private* 
+  1. Make sure the repository is public *not private*
   1. Local Path: Click "Choose" and create a new folder `my-awesome-project` inside the `<your-class-name-here>` folder you made above
   1. Click Create Repository
   1. This should now be your class folder's directory structure.
@@ -288,7 +288,7 @@ Item # | Description | Completed
 2b | Link to `commit #2 from Github Desktop` | [commit #2 from Github Desktop](https://github.com/omundy/learn-git-milestones/commit/9d36abe572acdd79a571855f762829bae000acce)
 2c | Full path to your working directory | /Users/ainasolis/Documents/GitHub/DIG250-Git-Milestones
 2d | Link to `commit #3 from CLI` | [commit #3 from CLI](https://github.com/ania0162/DIG250-Git-Milestones/commit/64afb13e02b9d4b420e6c1accf41a166c430e982)
-2e | 3rd Favorite emoji |
+2e | 3rd Favorite emoji | 👀
 2f | Link to `commit #4 from Atom` |
 3a | Link to `my-awesome-project` github.com repo page |
 4a | Link to `my-awesome-project` github.io "project site" |
